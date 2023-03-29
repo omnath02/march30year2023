@@ -11,12 +11,12 @@
       <![CDATA[Logout complete--- log Message]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-03-30T00:03:05 IST" name="Suite" finished-at="2023-03-30T00:03:15 IST" duration-ms="10272">
+  <suite started-at="2023-03-30T01:34:40 IST" name="Suite" finished-at="2023-03-30T01:34:53 IST" duration-ms="13157">
     <groups>
     </groups>
-    <test started-at="2023-03-30T00:03:05 IST" name="ChromwTest" finished-at="2023-03-30T00:03:15 IST" duration-ms="10272">
+    <test started-at="2023-03-30T01:34:40 IST" name="ChromwTest" finished-at="2023-03-30T01:34:53 IST" duration-ms="13157">
       <class name="hrms_testscripts.TC02">
-        <test-method signature="testmethod()[pri:0, instance:hrms_testscripts.TC02@4e28bdd1]" started-at="2023-03-30T00:03:05 IST" name="testmethod" finished-at="2023-03-30T00:03:15 IST" duration-ms="10194" status="PASS">
+        <test-method signature="testmethod()[pri:0, instance:hrms_testscripts.TC02@4e28bdd1]" started-at="2023-03-30T01:34:40 IST" name="testmethod" finished-at="2023-03-30T01:34:53 IST" duration-ms="13091" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launch--- log Message]]>
