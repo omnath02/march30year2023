@@ -16,7 +16,7 @@ private static Logger demologger = LogManager.getLogger(Log4jDemo.class.getName(
 	
 	
 	
-	@Test()
+	@Test(priority=1)
 	public void testmethod () throws InterruptedException{
 		
 //		System.setProperty("webdriver.chromedriver","C:\\Users\\USER\\Downloads\\Naresh IT\\"
